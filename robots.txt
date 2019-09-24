@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wiquophui.jsonforms-beta.de/sitemap.xml
